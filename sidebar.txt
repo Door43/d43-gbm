@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[gbm:home|Door43 (gbm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-gbm|d43-gbm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-gbm/archive/master.zip|d43-gbm.zip]]
+
+**Recent Changes**
+{{changes>ns = gbm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/gbm|Ethnologue data]]
+
