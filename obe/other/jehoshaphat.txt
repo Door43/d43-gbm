@@ -1,0 +1,21 @@
+====== Jehoshaphat ======
+
+===== Facts: =====
+
+Jehoshaphat is the name of at least two men in the Old Testament.
+
+  * The most well-known man by this name was King Jehoshaphat who was the 4th king to rule over the kingdom of Judah.
+  * He restored peace between Judah and Israel, and destroyed the altars of false gods.
+  * Another Jehoshaphat was an administrative assistant for King David and King Solomon.
+
+(Translation suggestions: [[:gbm:ta:translate:translatenames|How to Translate Names]])
+
+(See also: [[:gbm:obe:kt:priest]] [[:gbm:obe:other:altar]], [[:gbm:obe:other:David]], [[:gbm:obe:other:Solomon]], [[:gbm:obe:other:Judah]], [[:gbm:obe:other:Israel]], [[:gbm:obe:kt:falsegod]])
+
+===== Bible References: =====
+
+{{topic>jehoshephat&nocomments}}~~DISCUSSION~~
+
+~~NOCACHE~~
+
+{{tag>publish}}
